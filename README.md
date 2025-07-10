@@ -13,6 +13,7 @@ Untuk admin memiliki tambahan mengelola produk, melihat riwayat transaksi besert
 Login admin menggunakan uid : admin password : admin123.
 untuk user silahkan menggunakan menu register
 import database uasecommerce.sql
+extract vendor.zip ke dalam root (karena tidak bisa di upload per file pada github)
 Semoga bermanfaat.
 
 Untuk dapat memanfaatkan melalui localhost apabila sedang dalam tahap pengembangan, gunakanlah aplikasi forwarding seperti "ngrok"
