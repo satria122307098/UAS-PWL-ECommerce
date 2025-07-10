@@ -1,0 +1,50 @@
+2025-07-06 00:21:22
+
+
+2025-07-06 00:29:01
+
+
+2025-07-06 00:44:14
+RAW JSON:
+'{"order_id":"1","transaction_status":"settlement"}'
+
+2025-07-06 03:40:04
+RAW JSON:
+'{"transaction_time":"2025-07-06 08:39:54","transaction_status":"capture","transaction_id":"267b409b-953d-47ff-9313-c6348af2a0e7","three_ds_version":"2","status_message":"midtrans payment notification","status_code":"200","signature_key":"eefa3bdca647514161cedd7f0d6f8cdad23e7506969ca12da18d114b2fbfefcf20f8c2c301947c9142d693153acd06455f3f048e41d146a0d3e757510866bc40","payment_type":"credit_card","order_id":"15","metadata":{},"merchant_id":"G470165890","masked_card":"48111111-1114","gross_amount":"20000.00","fraud_status":"accept","expiry_time":"2025-07-14 08:39:54","eci":"05","currency":"IDR","channel_response_message":"Approved","channel_response_code":"00","card_type":"credit","bank":"bni","approval_code":"1751765999367"}'
+
+2025-07-06 03:51:12
+RAW JSON:
+'{"transaction_time":"2025-07-06 08:51:01","transaction_status":"capture","transaction_id":"13c04526-1481-448d-aa7f-c815024fadfa","three_ds_version":"2","status_message":"midtrans payment notification","status_code":"200","signature_key":"550e12e75e158a55591fd2bf78e54152833b07e194ad492ed8bfe7c7dab62b6ac5200d863c1b82560283e58a4d5f6a89f8ff932a27a49d2426bafc83333fe0e4","payment_type":"credit_card","order_id":"16","metadata":{},"merchant_id":"G470165890","masked_card":"48111111-1114","gross_amount":"20000.00","fraud_status":"accept","expiry_time":"2025-07-14 08:51:01","eci":"05","currency":"IDR","channel_response_message":"Approved","channel_response_code":"00","card_type":"credit","bank":"bni","approval_code":"1751766667867"}'
+
+2025-07-06 18:58:38
+RAW JSON:
+'{"transaction_time":"2025-07-06 23:58:26","transaction_status":"capture","transaction_id":"30ea87da-7496-4aa0-a662-ac8ed578dd41","three_ds_version":"2","status_message":"midtrans payment notification","status_code":"200","signature_key":"216d0f1474f6a2daad4354d9317671900963eb9628b0fa85b27e976bbc477385025985da322a99a01a40f6fa695945c3f4ee75f922734d038675523cd00ed1ff","payment_type":"credit_card","order_id":"17","metadata":{},"merchant_id":"G470165890","masked_card":"48111111-1114","gross_amount":"10000.00","fraud_status":"accept","expiry_time":"2025-07-14 23:58:26","eci":"05","currency":"IDR","channel_response_message":"Approved","channel_response_code":"00","card_type":"credit","bank":"bni","approval_code":"1751821113155"}'
+
+2025-07-07 06:10:37
+RAW JSON:
+'{"transaction_time":"2025-07-07 11:10:24","transaction_status":"capture","transaction_id":"5c21ecc1-d444-4f8c-8a64-aab508b5ca3d","three_ds_version":"2","status_message":"midtrans payment notification","status_code":"200","signature_key":"f0daf8f7af5a839a9846ebb46efabdbd5b0a4cdfaf74a368e9939e7298c346a6500251645f1ab84eadfcf40dfce6c48b14f7a86b890dfa6da8de6bd437f93593","payment_type":"credit_card","order_id":"18","metadata":{},"merchant_id":"G470165890","masked_card":"48111111-1114","gross_amount":"20000.00","fraud_status":"accept","expiry_time":"2025-07-15 11:10:24","eci":"05","currency":"IDR","channel_response_message":"Approved","channel_response_code":"00","card_type":"credit","bank":"bni","approval_code":"1751861432074"}'
+
+2025-07-08 23:27:59
+RAW JSON:
+'{"transaction_time":"2025-07-09 04:27:48","transaction_status":"capture","transaction_id":"92901735-0742-46e2-856e-941abce4d174","three_ds_version":"2","status_message":"midtrans payment notification","status_code":"200","signature_key":"87a4361d1b8e9b72286860294f0824625a3eac0fbc3f04e88048ae2a72fc4b2cd94c2383ee6b8d66a2a12dd6e65edb903f99b6e2fe571e8ab2b213c7a8f1cc67","payment_type":"credit_card","order_id":"19","metadata":{},"merchant_id":"G470165890","masked_card":"48111111-1114","gross_amount":"40000.00","fraud_status":"accept","expiry_time":"2025-07-17 04:27:48","eci":"05","currency":"IDR","channel_response_message":"Approved","channel_response_code":"00","card_type":"credit","bank":"bni","approval_code":"1752010077617"}'
+
+2025-07-10 06:40:35
+RAW JSON:
+'{"transaction_time":"2025-07-10 11:40:22","transaction_status":"capture","transaction_id":"288f2208-0bae-45c1-ba69-5fcccca728d9","three_ds_version":"2","status_message":"midtrans payment notification","status_code":"200","signature_key":"edad15c1581990e1e230887f738f002e631e1b75200a64b8cc540bb0d4ac0844dc90296bf5b3a759cb9f96881af2ebd062c39c60ba9eb2fe5f1d374b325e212c","payment_type":"credit_card","order_id":"20","metadata":{},"merchant_id":"G470165890","masked_card":"48111111-1114","gross_amount":"27000.00","fraud_status":"accept","expiry_time":"2025-07-18 11:40:22","eci":"05","currency":"IDR","channel_response_message":"Approved","channel_response_code":"00","card_type":"credit","bank":"bni","approval_code":"1752122432962"}'
+
+2025-07-10 12:14:37
+RAW JSON:
+'{"transaction_time":"2025-07-10 17:14:29","transaction_status":"capture","transaction_id":"492276c8-23ea-44de-9b4c-766dbaae1cae","three_ds_version":"2","status_message":"midtrans payment notification","status_code":"200","signature_key":"dfd297c600d806f3a6a7a76ae4ea17e13cac1723e7a6db3052cd2e03961b35775944591f0249ccd8384df9180ad008f8170558b4731dc7cff4d2888a48777297","payment_type":"credit_card","order_id":"21","metadata":{},"merchant_id":"G470165890","masked_card":"48111111-1114","gross_amount":"56000.00","fraud_status":"accept","expiry_time":"2025-07-18 17:14:29","eci":"05","currency":"IDR","channel_response_message":"Approved","channel_response_code":"00","card_type":"credit","bank":"bni","approval_code":"1752142474176"}'
+
+2025-07-10 12:29:22
+RAW JSON:
+'{"transaction_time":"2025-07-10 17:29:12","transaction_status":"capture","transaction_id":"7ebbda1e-53d9-4aca-83ee-2919157b501f","three_ds_version":"2","status_message":"midtrans payment notification","status_code":"200","signature_key":"4123df5e4a1f879bd1da2934b73770a1611e54ccaaf0b76d595cd6d1603e3cd6c59535575acba2ad26223670886331e8dfb8594777daac44458874468a19e64b","payment_type":"credit_card","order_id":"22","metadata":{},"merchant_id":"G470165890","masked_card":"48111111-1114","gross_amount":"38000.00","fraud_status":"accept","expiry_time":"2025-07-18 17:29:12","eci":"05","currency":"IDR","channel_response_message":"Approved","channel_response_code":"00","card_type":"credit","bank":"bni","approval_code":"1752143358986"}'
+
+2025-07-10 12:32:31
+RAW JSON:
+'{"transaction_time":"2025-07-10 17:32:20","transaction_status":"capture","transaction_id":"0c13c263-c80c-4712-b622-612c0dd61ff4","three_ds_version":"2","status_message":"midtrans payment notification","status_code":"200","signature_key":"b4e65a98161db23848c1e18d28e6953bbecf6a5a5a08790fdef6eee244a1c59a506bcb70dea58aac76a57e436f6d27fad4b4bdda11b63d5e662aae1ecfd26be1","payment_type":"credit_card","order_id":"23","metadata":{},"merchant_id":"G470165890","masked_card":"48111111-1114","gross_amount":"69000.00","fraud_status":"accept","expiry_time":"2025-07-18 17:32:20","eci":"05","currency":"IDR","channel_response_message":"Approved","channel_response_code":"00","card_type":"credit","bank":"bni","approval_code":"1752143548947"}'
+
+2025-07-10 16:20:56
+RAW JSON:
+'{"transaction_time":"2025-07-10 21:20:35","transaction_status":"capture","transaction_id":"429f2d9d-5438-4a62-a8b8-32837b164784","three_ds_version":"2","status_message":"midtrans payment notification","status_code":"200","signature_key":"156267ec92d92be1c329d468650cccb01eda61ade962e5c819376f8d1cabf92177e631ce8d7b4b59b5c55448bc8f53b3635dfac3b33e3b4454bf7400418e4623","payment_type":"credit_card","order_id":"24","metadata":{},"merchant_id":"G470165890","masked_card":"48111111-1114","gross_amount":"116000.00","fraud_status":"accept","expiry_time":"2025-07-18 21:20:35","eci":"05","currency":"IDR","channel_response_message":"Approved","channel_response_code":"00","card_type":"credit","bank":"bni","approval_code":"1752157253914"}'
+
