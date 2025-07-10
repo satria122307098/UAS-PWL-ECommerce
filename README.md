@@ -33,4 +33,4 @@ Setting MIdtrans
 4. masuk ke menu setting-payment-Notification URL, lalu masukkan url callback.php (misal https://068f-103-47-133-91.ngrok-free.app/uasecommerce/callback.php)
 5. APliaksi siap digunakan.
 
-AKun 
+
